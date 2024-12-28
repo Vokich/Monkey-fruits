@@ -1,2 +1,2 @@
 # Monkey-fruits
-This is a simple game made on pygame
+This is my first seriosly project on pygame. I made this game for 5 days
